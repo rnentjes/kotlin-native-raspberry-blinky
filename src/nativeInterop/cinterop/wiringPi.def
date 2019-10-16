@@ -1,0 +1,2 @@
+headers = wiringPi.h wiringPiI2C.h wiringPiSPI.h
+linkerOpts=-lwiringPi -Lsrc/include/wiringPi
