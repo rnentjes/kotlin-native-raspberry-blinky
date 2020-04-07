@@ -1,4 +1,4 @@
-Updated kotlin/native raspberry pi example to kotlin 1.3.50
+Updated kotlin/native raspberry pi example to kotlin 1.4-M1 with gradle dsl
 
 See these links:
  
